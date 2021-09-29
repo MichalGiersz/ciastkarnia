@@ -1,0 +1,54 @@
+fieldset{
+	background-color: pink;
+	color: #FFF59D;
+}
+legend{
+	margin: auto;
+	color:#ffffc2;
+}
+body{
+	
+	text-align: center;
+	font-family: 'Franklin gothic Heavy';
+	font-size: 20px;
+	background-color: #c8e7ed;
+	
+}
+h1{
+	text-align:center; 
+	
+ }
+ 
+ h2{
+	 text-align: center;
+	 color:#64B5F6;
+ }
+ .opis{
+	 color:#64B5F6;
+ }
+ .oferta{
+	 font-size:45px;
+	}
+	
+.torty
+{
+	color:#64B5F6;
+}
+
+ .danefirmowe{
+	 font-size:45px;
+	 color:#64B5F6;
+	}
+.głównaramka{
+	background-color:#FFF9C4;
+	
+	
+	}
+
+.drugaramka{
+	background-color:pink;
+	}
+	
+.tekstramka{
+	color:#F06292;
+}
